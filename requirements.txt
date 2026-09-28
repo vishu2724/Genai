@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+langchain-text-splitters
+python-dotenv
+langchain-google-genai
+langchain-huggingface
+huggingface_hub
+scikit-learn
+numpy
