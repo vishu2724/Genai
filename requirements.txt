@@ -8,3 +8,4 @@ langchain-huggingface
 huggingface_hub
 scikit-learn
 numpy
+streamlit
