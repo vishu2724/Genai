@@ -9,3 +9,5 @@ huggingface_hub
 scikit-learn
 numpy
 streamlit
+pydantic
+email-validator
