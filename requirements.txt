@@ -11,3 +11,4 @@ numpy
 streamlit
 pydantic
 email-validator
+grandalf
