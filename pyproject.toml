@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "beautifulsoup4>=4.15.0",
     "email-validator>=2.3.0",
     "grandalf>=0.8",
     "huggingface-hub>=1.32.0",
@@ -20,6 +21,7 @@ dependencies = [
     "langchain-text-splitters>=1.1.2",
     "numpy>=2.5.3",
     "pydantic>=2.13.5",
+    "pypdf>=6.20.0",
     "python-dotenv>=1.2.3",
     "scikit-learn>=1.9.1",
     "streamlit>=1.64.0",

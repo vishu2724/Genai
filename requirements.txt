@@ -12,3 +12,5 @@ streamlit
 pydantic
 email-validator
 grandalf
+pypdf
+beautifulsoup4
