@@ -20,3 +20,6 @@ langchain-openai
 chromadb 
 tiktoken
 langchain-chroma
+faiss-cpu
+wikipedia
+langchain-classic
