@@ -24,3 +24,5 @@ faiss-cpu
 wikipedia
 langchain-classic
 youtube-transcript-api
+duckduckgo-search
+langchain_experimental
